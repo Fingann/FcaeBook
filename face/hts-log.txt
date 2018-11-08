@@ -1,0 +1,20 @@
+HTTrack3.49-2 launched on Thu, 08 Nov 2018 15:10:38 at https://nb-no.facebook.com/login/
+(winhttrack https://nb-no.facebook.com/login/ -W -O "/root/websites/face" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/L38M (from https://nb-no.facebook.com/login/)
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/IToy (from https://nb-no.facebook.com/login/)
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/S+p0 (from https://nb-no.facebook.com/login/)
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/km2J (from https://nb-no.facebook.com/login/)
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/DMK2 (from https://nb-no.facebook.com/login/)
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/ZLbS (from https://nb-no.facebook.com/login/)
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/qZW+ (from https://nb-no.facebook.com/login/)
+15:10:49	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/XJyV (from https://nb-no.facebook.com/login/)
+15:10:50	Error: 	"Not Found" (404) at link https://nb-no.facebook.com/login/XJyV/ (from https://nb-no.facebook.com/login/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 12 links scanned, 2 files written (987713 bytes overall) [1255844 bytes received at 104653 bytes/sec], 5389662 bytes transferred using HTTP compression in 12 files, ratio 23%, 6.0 requests per connection
+(9 errors, 0 warnings, 0 messages)

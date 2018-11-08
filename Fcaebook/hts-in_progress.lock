@@ -1,7 +1,0 @@
-Mirror in progress since Thu, 08 Nov 2018 14:30:29 .. please wait!
-winhttrack https://nb-no.facebook.com/ -O "/root/websites/Fcaebook" -Y -%v 
-To pause the engine: create an empty file named 'hts-stop.lock'
-PID=1948
-UID=0
-GID=0
-START=1541683829
